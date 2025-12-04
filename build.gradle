@@ -36,7 +36,7 @@ dependencies {
     implementation "com.zaxxer:HikariCP:5.0.1"
 }
 
-group = 'io.github.untalsanders.afrominga'
+group = 'com.untalsanders.afrominga'
 version = '0.0.1-SNAPSHOT'
 
 jar {
@@ -44,5 +44,5 @@ jar {
 }
 
 application {
-    mainClass = 'io.github.untalsanders.afrominga.AfromingaApplication'
+    mainClass = 'com.untalsanders.afrominga.AfromingaApplication'
 }
